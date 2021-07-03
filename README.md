@@ -11,7 +11,7 @@ During the full release of crscarlet stores are required to install Scarlet usin
 Any occurences of Scarlet installed outside of this will fail(when the cryptography system is put in place). 
 You will be contacted if the use is being exploited or mis-used ; this will result in a DMCA notice and can be further escalated.
 
-Those interested in hosting prior to official release or outside our domain must contact @DebianArch on Twitter.
+Those interested in hosting prior to official release or outside our domain must contact @DebianArch on Twitter for written permission.
 
 # Contributions
 We are open to any suggestions or changes on the API and how things are processed.
