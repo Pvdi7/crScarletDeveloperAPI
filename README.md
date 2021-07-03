@@ -1,5 +1,5 @@
 # crScarletDeveloperAPI
-crScarlet is a tool which will allow store to sign Scarlet securely.
+crScarlet is a tool which will allow stores to sign Scarlet securely.
 There are many changes that will be made to allow for ad-revanue on those who will host Scarlet.
 
 An example of what the crscarlet request file looks like is on the root of the project.
