@@ -13,7 +13,7 @@ This file is self-explanatory ; move it to the root directory of the Scarlet app
 5. Create base64 encoding of JSON containing two keys(certURL, ipaURL)
 ![Screen Shot 2021-07-06 at 9 20 54 PM](https://user-images.githubusercontent.com/63203414/124690906-8c01e480-dea0-11eb-880a-f67bc16c7838.png)
 
-6. https://vip.usescarlet.com/?cert=*output of step 5*
+6. Use the Scarlet domain to share and install your signed Scarlet app on other devices! https://vip.usescarlet.com/?cert=*output of step 5*
 
 # NOTICE
 Although this code can be used and modified by ANYBODY this doesn't mean hosting Scarlet out of the usescarlet.com domain is allowed.
